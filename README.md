@@ -55,7 +55,7 @@ npm test
 
 ```
 
-##📜 Example Implementation (`index.js`)
+📜 Example Implementation (`index.js`)
 --------------------------------------
 
 ```
@@ -66,7 +66,7 @@ module.exports = add;
 
 ```
 
-##✅ Example Test (`test/index-test.js`)
+✅ Example Test (`test/index-test.js`)
 -------------------------------------
 
 ```

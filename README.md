@@ -44,7 +44,7 @@ cd mocha-unit-testing
 ### 2️⃣ Install Dependencies
 
 ```
-npm install
+npm install --save-dev mocha 
 
 ```
 

@@ -1,4 +1,4 @@
-#Mocha Unit Testing - Node.js
+Mocha Unit Testing - Node.js
 ============================
 
 This repository demonstrates my studies on unit tests in Node.js using the **Mocha** framework and the built-in **assert** module.
@@ -7,7 +7,7 @@ This repository demonstrates my studies on unit tests in Node.js using the **Moc
 
 In this project, I used a Test-Driven Development to build a method that calculates factorial expressions. I put into practice the assert module and mocha testing library to drive my development constructing an automated test suite that is reliable, maintainable and expressive.
 
-##📌 Technologies Used
+📌 Technologies Used
 --------------------
 
 -   **Node.js** - JavaScript runtime environment
@@ -15,7 +15,7 @@ In this project, I used a Test-Driven Development to build a method that calcula
 -   **Assert** - Built-in Node.js assertion module
 
 
-##📂 Project Structure
+📂 Project Structure
 --------------------
 
 ```
@@ -80,17 +80,17 @@ describe('Addition Function', function() {
 
 ```
 
-##📖 References
+📖 References
 -------------
 
 -   [Mocha Documentation](https://mochajs.org/)
 -   [Node.js Assert Module](https://nodejs.org/api/assert.html)
 
-##🏆 Contribution
+🏆 Contribution
 ---------------
 
 Feel free to contribute with improvements! Open an issue or submit a pull request. 🚀
 
 * * * * *
 
-##📌 **Author:** [miottto](https://github.com/miottto)
+📌 **Author:** [miottto](https://github.com/miottto)

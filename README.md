@@ -3,7 +3,8 @@ Mocha Unit Testing - Node.js
 
 This repository demonstrates my studies on unit tests in Node.js using the **Mocha** framework and the built-in **assert** module.
 
-##⚙️ How it Works
+⚙️ How It Works
+--------------------
 
 In this project, I used a Test-Driven Development to build a method that calculates factorial expressions. I put into practice the assert module and mocha testing library to drive my development constructing an automated test suite that is reliable, maintainable and expressive.
 
@@ -29,7 +30,7 @@ mocha-unit-testing/
 
 ```
 
-##🚀 How to Set Up the Project
+🚀 How to Set Up the Project
 ----------------------------
 
 ### 1️⃣ Clone the Repository

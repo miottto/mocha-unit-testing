@@ -6,7 +6,7 @@ This repository demonstrates my studies on unit tests in Node.js using the **Moc
 ⚙️ How It Works
 --------------------
 
-In this project, I used a **Test-Driven Development** to build a method that calculates factorial expressions. I put into practice the **assert** module and **Mocha** testing library to drive my development constructing an **automated test suite** that is reliable, maintainable and expressive.
+In this project, I used a **Test-Driven Development** to build a method that calculates factorial expressions. I put into practice the **assert** module and **Mocha** test framework to drive my development by constructing an **automated test suite** that is reliable, maintainable and expressive.
 
 📌 Technologies Used
 --------------------

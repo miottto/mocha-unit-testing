@@ -44,11 +44,20 @@ cd mocha-unit-testing
 ### 2️⃣ Install Dependencies
 
 ```
-npm install --save-dev mocha 
+npm install --global mocha
 
 ```
 
-### 3️⃣ Run the Tests
+### 3️⃣ Edit Scripts Session In `package.json` file
+
+```
+"scripts": {
+  "test": "mocha"
+}
+
+```
+
+### 4️⃣ Run the Tests
 
 ```
 npm test
